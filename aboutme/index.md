@@ -14,7 +14,7 @@ Ciao, sono uno studente universitario appassionato di informatica con una profon
 
 # Educazione
 
-Sono attualmente uno studente universitario di Informatica presso [Nome dell'Università]. Sto perseguendo una laurea in informatica per ampliare le mie conoscenze e diventare un programmatore ancora più competente.
+Sono attualmente uno studente universitario di Informatica presso Roma Tor Vergata. Sto perseguendo una laurea in informatica per ampliare le mie conoscenze e diventare un programmatore ancora più competente.
 
 # Progetti
 
