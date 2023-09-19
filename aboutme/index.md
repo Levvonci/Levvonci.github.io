@@ -4,7 +4,7 @@
 
 Ciao, sono uno studente universitario appassionato di informatica con una profonda affinità per il mondo Unix e la programmazione. Ecco un po' di informazioni su di me:
 
-## Competenze Tecniche
+# Competenze Tecniche
 
 - **Linguaggi di Programmazione**: Sono esperto nella programmazione in Python e C. Mi piace risolvere problemi complessi e creare applicazioni efficienti utilizzando questi linguaggi.
 
@@ -12,18 +12,18 @@ Ciao, sono uno studente universitario appassionato di informatica con una profon
 
 - **Unix Porn**: Sono un appassionato di Unix Porn e metto un'attenzione particolare nella configurazione del mio ambiente di lavoro Unix. Adoro creare script personalizzati, configurare dotfiles e sperimentare con nuovi strumenti per ottimizzare il mio flusso di lavoro.
 
-## Educazione
+# Educazione
 
 Sono attualmente uno studente universitario di Informatica presso [Nome dell'Università]. Sto perseguendo una laurea in informatica per ampliare le mie conoscenze e diventare un programmatore ancora più competente.
 
-## Progetti
+# Progetti
 
 Alcuni dei miei progetti includono:
 - Sviluppo di un'applicazione web in Python per [descrizione del progetto].
 - Implementazione di un kernel minimale in linguaggio C per scopi didattici.
 - Creazione di script di automazione per semplificare compiti ripetitivi sul mio sistema Linux.
 
-## Interessi
+# Interessi
 
 Oltre alla mia passione per la tecnologia, mi piace esplorare nuove distribuzioni Linux, contribuire alla comunità open source e seguire le ultime tendenze nell'ambito informatico. Nel mio tempo libero, leggo blog tecnici, partecipo a forum di discussione e cerco sempre di imparare qualcosa di nuovo.
 
