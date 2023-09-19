@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://Levvonci.github.io/aboutme/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://Levvonci.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://Levvonci.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://Levvonci.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
