@@ -3,5 +3,6 @@
         <title>Tags - Tag - Levvonci Site</title>
         <link>https://Levvonci.github.io/tags/</link>
         <description>Tags - Tag - Levvonci Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://Levvonci.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ascenzi.leonardo.2002@gmail.com (Leonardo Ascenzi)</managingEditor>
+            <webMaster>ascenzi.leonardo.2002@gmail.com (Leonardo Ascenzi)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://Levvonci.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
