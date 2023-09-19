@@ -4,15 +4,7 @@
         <link>https://Levvonci.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ascenzi.leonardo.2002@gmail.com (Leonardo Ascenzi)</managingEditor>
-            <webMaster>ascenzi.leonardo.2002@gmail.com (Leonardo Ascenzi)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 19 Sep 2023 14:56:13 &#43;0200</lastBuildDate>
+            <webMaster>ascenzi.leonardo.2002@gmail.com (Leonardo Ascenzi)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://Levvonci.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Init</title>
-    <link>https://Levvonci.github.io/init/</link>
-    <pubDate>Tue, 19 Sep 2023 14:56:13 &#43;0200</pubDate>
-    <author>Leonardo Ascenzi</author>
-    <guid>https://Levvonci.github.io/init/</guid>
-    <description><![CDATA[Questo è il primo post ]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
